@@ -1,5 +1,76 @@
-# Welcome to your StudyX project
+#StudyX – Student & Teacher Task Management Platform
+#🔹 Overview
 
-## Project info
+StudyX is a web-based platform designed to improve collaboration between teachers and students.
+It provides an easy way for teachers to assign tasks and for students to manage, track, and complete them.
+The platform also includes analytics dashboards for both students and teachers, helping them monitor progress and performance.
 
-This is an project about student and teacher sharing there work. In brief Teachers gives task number of students and students should complete it and submit or confirm that they have completed the Task. Also, Student see there analytics about how may task they completed on time and how much they have to complete and how pmuch pending, Even Teacher can also check the analytics.
+✨ Features
+👩‍🎓 Student Side
+
+📌 Task Management: View assigned tasks, add your own tasks, mark them as completed.
+
+📅 Calendar View: See upcoming deadlines and plan study schedules.
+
+📊 Analytics Dashboard: Track completed vs pending tasks, task completion percentage, and monthly progress with graphs.
+
+🔔 Priority Labels: Tasks are marked as High (Red), Medium (Yellow), or Low (Green) priority.
+
+👨‍🏫 Teacher Side
+
+➕ Assign Tasks: Create tasks with title, description, due date, and priority.
+
+👥 Track Student Progress: Monitor individual student completion rates.
+
+📊 Analytics Dashboard: See class-wide statistics like average completion rate and pending tasks.
+
+🔑 Authentication
+
+🌑 Dark-themed Login & Signup page.
+
+Fields include Full Name, Email, Class/Exam, Contact Number, Password, and Role (Teacher/Student).
+
+Role-based dashboards (Student or Teacher).
+
+⚙️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript , React , Vite, Shadecn
+
+Storage: LocalStorage (for demo, no backend required)
+
+Charts/Graphs: Chart.js (for analytics)
+
+Responsive Design: Mobile-friendly layout with modern UI/UX
+
+🚀 How to Run
+
+Clone the repository:
+
+git clone https://github.com/your-username/studyx.git
+
+
+Open the project folder.
+
+locate package-lock.json.
+
+install npm
+
+run code in terminal npm run dev
+
+Create an account as Student or Teacher and explore the dashboards.
+
+📌 Future Improvements
+
+
+📱 Mobile App version (React Native / Flutter).
+
+📩 Email or SMS reminders for deadlines.
+
+🏆 Gamification elements like rewards for completing tasks.
+
+
+
+👨‍💻Developer
+
+Developed by Krishna Thakur – BCA Student Project.
+
